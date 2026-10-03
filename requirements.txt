@@ -1,0 +1,8 @@
+mujoco>=3.3,<4
+numpy>=1.26
+scipy>=1.11
+torch>=2.2
+xacro>=2.0
+pytest>=8
+Pillow>=10
+lerobot==0.6.0
