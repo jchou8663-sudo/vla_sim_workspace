@@ -1,6 +1,8 @@
 .venv/
 __pycache__/
 .pytest_cache/
+# 本地 VS Code 设置、数据库与索引缓存，不属于可复现的项目源码。
+.vscode/
 generated/
 runs/
 MUJOCO_LOG.TXT
